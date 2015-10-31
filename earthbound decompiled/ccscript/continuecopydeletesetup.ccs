@@ -1,0 +1,28 @@
+import asm65816
+import asmref
+
+ROM[0xC1F08C] = ASMLoadAddress0E (Continue)
+ROM[0xC1F0C5] = ASMLoadAddress0E (Copy)
+ROM[0xC1F102] = ASMLoadAddress0E (Delete)
+ROM[0xC1F120] = ASMLoadAddress0E (SetUp)
+
+// Copy horizontal alignment
+ROM[0xC1F0DC] = LDX_i (0x0008)
+
+// Delete horizontal alignment
+ROM[0xC1F117] = LDX_i (0x000D)
+
+// Set Up horizontal alignment
+ROM[0xC1F135] = LDX_i (0x0014)
+
+Continue:
+"Continua[00]"
+
+Copy:
+"Copia[00]"
+
+Delete:
+"Apaga[00]"
+
+SetUp:
+"Configura[00]"

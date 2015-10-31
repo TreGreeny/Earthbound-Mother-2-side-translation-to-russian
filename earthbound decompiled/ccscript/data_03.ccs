@@ -1,0 +1,565 @@
+/*
+ * EarthBound Text Dump
+ * Time: 11:01:02 - 10/09/2015
+ * Generated using CCScriptWriter.
+ */
+
+command e(label) "{long label}"
+
+// Text Data
+l_0xc53b76:
+    newline
+    " <[1C 05 24]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53b86:
+    newline
+    " <[1C 05 25]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53b96:
+    newline
+    " <[1C 05 26]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53ba6:
+    newline
+    " <[1C 05 27]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53bb6:
+    newline
+    " <[1C 05 28]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53bc6:
+    newline
+    " <[1C 05 29]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53bd6:
+    newline
+    " <[1C 05 2A]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53be6:
+    newline
+    " <[1C 05 2B]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53bf6:
+    newline
+    " <[1C 05 2C]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53c06:
+    newline
+    " <[1C 05 2D]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53c16:
+    newline
+    " <[1C 05 2E]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53c26:
+    newline
+    " <[1C 05 2F]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53c36:
+    newline
+    " <[1C 05 30]>" next
+    call(data_05.l_0xc56ba0) end
+
+l_0xc53c46:
+    newline
+    " <[1C 05 31]>" next
+    "@Так себе оружие." end
+
+l_0xc53c5f:
+    newline
+    " <[1C 05 32]>" next
+    "@Неплохое оружие." end
+
+l_0xc53c7a:
+    newline
+    " <[1C 05 33]>" next
+    "@Довольно сильное оружие." end
+
+l_0xc53c95:
+    newline
+    " <[1C 05 34]>" next
+    "@Крепкое, сильное оружие!" end
+
+l_0xc53caf:
+    newline
+    " <[1C 05 35]>" next
+    "@Клёвая штука, это точно." end
+
+l_0xc53cc8:
+    newline
+    " <[1C 05 36]>" next
+    call(data_05.l_0xc56bc0) end
+
+l_0xc53cd8:
+    newline
+    " <[1C 05 37]>" next
+    call(data_05.l_0xc56bc0) next
+    "@А ещё ненамного увеличивает Скорость." end
+
+l_0xc53d00:
+    newline
+    " <[1C 05 38]>" next
+    call(data_05.l_0xc56bc0) next
+    "@А ещё увеличивает твою Скорость." end
+
+l_0xc53d21:
+    newline
+    " <[1C 05 39]>" next
+    call(data_05.l_0xc56bc0) next
+    "@Сильно увеличивает твою Скорость." end
+
+l_0xc53d46:
+    newline
+    " <[1C 05 3A]>" next
+    call(data_05.l_0xc56bdf) "@Защищает тебя от огненных атак." end
+
+l_0xc53d6a:
+    newline
+    " <[1C 05 3B]>" next
+    call(data_05.l_0xc56bdf) "@Защищает тебя от ледяных атак." end
+
+l_0xc53d8f:
+    newline
+    " <[1C 05 3C]>" next
+    call(data_05.l_0xc56bdf) "@Поглощает свет от световых атак." end
+
+l_0xc53db8:
+    newline
+    " <[1C 05 3D]>" next
+    call(data_05.l_0xc56bdf) "@Защищает тебя от огненных, ледяных и световых атак." end
+
+l_0xc53de8:
+    newline
+    " <[1C 05 3E]>" next
+    call(data_05.l_0xc56bdf) "@Защищает тебя от огненных, ледяных, световых и парализующих атак." end
+
+l_0xc53e23:
+    newline
+    " <[1C 05 3F]>" next
+    "@[1C 02 04] может носить эту вещь на теле." next
+    "@Увеличивает твою защиту." end
+
+l_0xc53e4f:
+    newline
+    " <[1C 05 40]>" next
+    call(data_05.l_0xc56bf4) end
+
+l_0xc53e5f:
+    newline
+    " <[1C 05 41]>" next
+    call(data_05.l_0xc56bf4) end
+
+l_0xc53e6f:
+    newline
+    " <[1C 05 42]>" next
+    call(data_05.l_0xc56bf4) end
+
+l_0xc53e7f:
+    newline
+    " <[1C 05 43]>" next
+    call(data_05.l_0xc56bf4) end
+
+l_0xc53e8f:
+    newline
+    " <[1C 05 44]>" next
+    call(data_05.l_0xc56bf4) end
+
+l_0xc53e9f:
+    newline
+    " <[1C 05 45]>" next
+    call(data_05.l_0xc56bf4) end
+
+l_0xc53eaf:
+    newline
+    " <[1C 05 46]>" next
+    call(data_05.l_0xc56bf4) next
+    call(data_05.l_0xc56c16) end
+
+l_0xc53ec6:
+    newline
+    " <[1C 05 47]>" next
+    call(data_05.l_0xc56bf4) next
+    call(data_05.l_0xc56c16) end
+
+l_0xc53edd:
+    newline
+    " <[1C 05 48]>" next
+    call(data_05.l_0xc56bf4) next
+    call(data_05.l_0xc56c16) end
+
+l_0xc53ef4:
+    newline
+    " <[1C 05 49]>" next
+    "@[1C 02 04] может носить эту вещь" linebreak
+    "  на руке." next
+    "@Помогает защите от гипноза, и Удача повышается." next
+    "@Конечно же, Защита тоже повышается." end
+
+l_0xc53f58:
+    newline
+    " <[1C 05 4A]>" next
+    call(data_05.l_0xc56c40) next
+    "@На этой вещи есть герб твоей любимой бейсбольной команды." end
+
+l_0xc53f89:
+    newline
+    " <[1C 05 4B]>" next
+    call(data_05.l_0xc56c40) next
+    "@В ней ты чувствуешь себя Шерлоком Холмсом." end
+
+l_0xc53fc9:
+    newline
+    " <[1C 05 4C]>" next
+    call(data_05.l_0xc56c40) next
+    "@Говорят, один известный игрок подарил её твоему другу." end
+
+l_0xc5400a:
+    newline
+    " <[1C 05 4D]>" next
+    call(data_05.l_0xc56c40) next
+    "@Её нужно носить при поисках сокровищ" next
+    "@или же на стройплощадке." end
+
+l_0xc54055:
+    newline
+    " <[1C 05 4E]>" next
+    call(data_05.l_0xc56c6d) end
+
+l_0xc54065:
+    newline
+    " <[1C 05 4F]>" next
+    call(data_05.l_0xc56c6d) end
+
+l_0xc54075:
+    newline
+    " <[1C 05 50]>" next
+    call(data_05.l_0xc56c6d) end
+
+l_0xc54085:
+    newline
+    " <[1C 05 51]>" next
+    call(data_05.l_0xc56c54) end
+
+l_0xc54095:
+    newline
+    " <[1C 05 52]>" next
+    call(data_05.l_0xc56c54) end
+
+l_0xc540a5:
+    newline
+    " <[1C 05 53]>" next
+    call(data_05.l_0xc56c54) end
+
+l_0xc540b5:
+    newline
+    " <[1C 05 54]>" next
+    call(data_05.l_0xc56c54) end
+
+l_0xc540c5:
+    newline
+    " <[1C 05 55]>" next
+    call(data_05.l_0xc56c54) end
+
+l_0xc540d5:
+    newline
+    " <[1C 05 56]>" next
+    call(data_05.l_0xc56c54) end
+
+l_0xc540e5:
+    newline
+    " <[1C 05 57]>" next
+    call(data_05.l_0xc56c91) next
+    "@Увеличивает его Защиту." end
+
+l_0xc54106:
+    newline
+    " <[1C 05 58]>" next
+    call(data_05.l_0xc56cb5) "6" call(data_05.l_0xc56cd6) end
+
+l_0xc5411c:
+    newline
+    " <[1C 05 59]>" next
+    call(data_05.l_0xc56cb5) "24" call(data_05.l_0xc56cd6) end
+
+l_0xc54133:
+    newline
+    " <[1C 05 5A]>" next
+    call(data_05.l_0xc56cb5) "50" call(data_05.l_0xc56cd6) next
+    "@100% говядина." end
+
+l_0xc54156:
+    newline
+    " <[1C 05 5B]>" next
+    call(data_05.l_0xc56cb5) "40" call(data_05.l_0xc56cd6) end
+
+l_0xc5416d:
+    newline
+    " <[1C 05 5C]>" next
+    call(data_05.l_0xc56cb5) "80" call(data_05.l_0xc56cd6) next
+    "@Настолько свежее, что ещё тёплое!" end
+
+l_0xc54197:
+    newline
+    " <[1C 05 5D]>" next
+    call(data_05.l_0xc56cb5) "80" call(data_05.l_0xc56cd6) next
+    "@Здесь даже есть кусок твоего любимого пирога!" end
+
+l_0xc541cb:
+    newline
+    " <[1C 05 5E]>" next
+    "@По легенде, эта тарелка лапши была любимым блюдом короля Саммерса Третьего" next
+    "@в 16м веке. В то время было множество прекрасных поваров, уверенных в своих" next
+    "@кулинарных способностях, постоянно приходивших в Дворец Саммерсов." next
+    "@Однажды жена короля Саммерса, Анна Саммерс, сказала," next
+    "@<Ах, чего бы я только ни отдала за по-настоящему вкусную лапшу!> ... ... ..." next
+    "@...Ну что ж, на этом и остановимся. Эта история слишком длинная для того, чтобы рассказать её полностью..." next
+    "@но это действительно прекрасная, трогательная легенда..." next
+    call(data_05.l_0xc56cb5) "110" call(data_05.l_0xc56cd6) end
+
+l_0xc54321:
+    newline
+    " <[1C 05 5F]>" next
+    call(data_05.l_0xc56cb5) "120" call(data_05.l_0xc56cd6) end
+
+l_0xc54339:
+    newline
+    " <[1C 05 60]>" next
+    "@Это блюдо дня. Шеф-повар рекомендует его попробовать," next
+    "@а уж он-то учился готовить в пятизвёздочном ресторане в Париже." next
+    call(data_05.l_0xc56cb5) "200" call(data_05.l_0xc56cd6) end
+
+l_0xc543a4:
+    newline
+    " <[1C 05 61]>" next
+    "@Так как это очень большая пицца, каждый восстановит около 240 ОЗ, съев свою часть." end
+
+l_0xc543da:
+    newline
+    " <[1C 05 62]>" next
+    "@Восстанавливает 20 ОП." end
+
+l_0xc543f5:
+    newline
+    " <[1C 05 63]>" next
+    "@Фантастический деликатес" linebreak
+    "  который растёт у корней деревьев" next
+    "@во влажных, грязных местах." next
+    "@Восстанавливает около 80 ОП." end
+
+l_0xc54451:
+    newline
+    " <[1C 05 64]>" next
+    call(data_05.l_0xc56cb5) "300 ОЗ и около 50 ОП." end
+
+l_0xc54471:
+    newline
+    " <[1C 05 65]>" next
+    "@Если съедаешь это, то Скорость, Выдержка, Жизнелюбие, Интеллект или Удача увеличиваются." end
+
+l_0xc544af:
+    newline
+    " <[1C 05 66]>" next
+    call(data_05.l_0xc56cb5) "60" call(data_05.l_0xc56cd6) end
+
+l_0xc544c6:
+    newline
+    " <[1C 05 67]>" next
+    call(data_05.l_0xc56cb5) "30" call(data_05.l_0xc56cd6) end
+
+l_0xc544dd:
+    newline
+    " <[1C 05 68]>" next
+    "@Любимая еда Пузырь-Обезьяны." next
+    "@Не поможет тебе восстановиться, но" next
+    "@Она никогда и не закончится, ведь это супер-пупер упаковка!" end
+
+l_0xc5453e:
+    newline
+    " <[1C 05 69]>" next
+    "@Отрыг любит этот мёд больше всего на свете." next
+    "@Однако... он пахнет СОВСЕМ, совсем ужасно! Отвратительная вонь, я бы сказал!" end
+
+l_0xc545a1:
+    newline
+    " <[1C 05 6A]>" next
+    call(data_05.l_0xc56cc5) "6" call(data_05.l_0xc56cd6) end
+
+l_0xc545b7:
+    newline
+    " <[1C 05 6B]>" next
+    "@Чай отменного качества, созданный чайным экспертом мистером Тодааром," next
+    "@который тщательно отбирает чайные листья из собранных вручную." next
+    "@Давным-давно лишь приближенным короля было дозволено пить этот чай." next
+    call(data_05.l_0xc56cc5) "60" call(data_05.l_0xc56cd6) end
+
+l_0xc54660:
+    newline
+    " <[1C 05 6C]>" next
+    "@Для укрепления и оздоровления тела." next
+    "@Даёт тебе питательный заряд, когда ты устал." next
+    call(data_05.l_0xc56cc5) "80" call(data_05.l_0xc56cd6) end
+
+l_0xc546bc:
+    newline
+    " <[1C 05 6D]>" next
+    "@Суп из плавников морского чудовища, известного как Кракен." next
+    "@Этот зверь обитает в океане у побережья Саммерса." next
+    "@Очень дорогое блюдо, зато рост сил обеспечен." end
+
+l_0xc54733:
+    newline
+    " <[1C 05 6E]>" next
+    "@Выпив её, ты ненамного увеличишь свои ОП." end
+
+l_0xc5475a:
+    newline
+    " <[1C 05 6F]>" next
+    "@Самое эффективное средство от простуды." end
+
+l_0xc54789:
+    newline
+    " <[1C 05 70]>" next
+    "@Самое эффективное средство от отравления." end
+
+l_0xc547b0:
+    newline
+    " <[1C 05 71]>" next
+    "@Приняв её, увеличишь свой Интеллект." end
+
+l_0xc547cb:
+    newline
+    " <[1C 05 72]>" next
+    "@Приняв её, увеличишь свою Выдержку." end
+
+l_0xc547e8:
+    newline
+    " <[1C 05 73]>" next
+    "@Приняв её, увеличишь свою Скорость." end
+
+l_0xc54806:
+    newline
+    " <[1C 05 74]>" next
+    "@Приняв её, увеличишь своё Жизнелюбие." end
+
+l_0xc54826:
+    newline
+    " <[1C 05 75]>" next
+    "@Приняв её, увеличишь свою Удачу." end
+
+l_0xc54842:
+    newline
+    " <[1C 05 76]>" next
+    call(data_05.l_0xc56d63) end
+
+l_0xc54852:
+    newline
+    " <[1C 05 77]>" next
+    call(data_05.l_0xc56d63) end
+
+l_0xc54862:
+    newline
+    " <[1C 05 78]>" next
+    call(data_05.l_0xc56d63) end
+
+l_0xc54872:
+    newline
+    " <[1C 05 79]>" next
+    call(data_05.l_0xc56d63) end
+
+l_0xc54882:
+    newline
+    " <[1C 05 7A]>" next
+    call(data_05.l_0xc56d63) end
+
+l_0xc54892:
+    newline
+    " <[1C 05 7B]>" next
+    call(data_05.l_0xc56d63) end
+
+l_0xc548a2:
+    newline
+    " <[1C 05 7C]>" next
+    call(data_05.l_0xc56d63) end
+
+l_0xc548b2:
+    newline
+    " <[1C 05 7D]>" next
+    "@Позволяет тебе пройти за кулисы в Театре Хаоса." next
+    "@Конечно же, с этим билетом можно побывать и на самом шоу." end
+
+l_0xc548fc:
+    newline
+    " <[1C 05 7E]>" next
+    "@Выливай его на еду." next
+    "@Сочетается с любой едой, при этом" next
+    "@увеличивая восстановительную силу еды." end
+
+l_0xc54952:
+    newline
+    " <[1C 05 7F]>" next
+    "@Отлично подходит при солнечном ударе." end
+
+l_0xc54979:
+    newline
+    " <[1C 05 80]>" next
+    "@Помогает при отравлении или тошноте." next
+    "@И не только!" next
+    call(data_05.l_0xc56d02) call(data_05.l_0xc56d36) end
+
+l_0xc549c3:
+    newline
+    " <[1C 05 81]>" next
+    "@Может оживить потерявшего сознание друга." next
+    call(data_05.l_0xc56cdb) call(data_05.l_0xc56d02) next
+    call(data_05.l_0xc56d36) call(data_05.l_0xc56d38) end
+
+l_0xc549ff:
+    newline
+    " <[1C 05 82]>" next
+    goto(l_0xc54a08)
+
+l_0xc54a08:
+    "@Оживляет потерявшего сознание друга." next
+    call(data_05.l_0xc56cdb) call(data_05.l_0xc56d02) next
+    call(data_05.l_0xc56d37) call(data_05.l_0xc56d38) end
+
+l_0xc54a3a:
+    newline
+    " <[1C 05 83]>" next
+    call(data_05.l_0xc56db7) "@Удерживает ПСИ врага во время битвы." next
+    call(data_05.l_0xc56d9b) end
+
+l_0xc54a6c:
+    newline
+    " <[1C 05 84]>" next
+    call(data_05.l_0xc56db7) "@Пробивает щит врага во время битвы." next
+    call(data_05.l_0xc56d9b) end
+
+l_0xc54aa1:
+    newline
+    " <[1C 05 85]>" next
+    call(data_05.l_0xc56db7) call(data_05.l_0xc56dc5) next
+    "@Из-за взрывной силы" next
+    "@может задеть не только цель, но и других." next
+    call(data_05.l_0xc56d9b) end
+
+l_0xc54af5:
+    newline
+    " <[1C 05 86]>" next
+    call(data_05.l_0xc56db7) "@Наносит врагу огромное количество урона." next
+    "@Из-за взрывной силы" next
+    "@может задеть не только цель, но и других." next
+    call(data_05.l_0xc56d9b) end
+

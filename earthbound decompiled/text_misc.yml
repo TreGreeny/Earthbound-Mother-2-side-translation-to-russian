@@ -1,0 +1,128 @@
+Ailments:
+  Ailment 01: "[72 96 99 50 A3 A0 99 9F 91 9F 9A C6]"
+  Ailment 02: Алмазнут
+  Ailment 03: Парализован
+  Ailment 04: Тошнота
+  Ailment 05: Отравлен
+  Ailment 06: Солнечный удар
+  Ailment 07: Шмыгает носом
+  Ailment 08: Огриблен
+  Ailment 09: Одержим
+  Ailment 10: Скучает по дому
+Battle Menu:
+  Auto Fight: Автобой
+  Bash: Ударить
+  Defend: Защититься
+  Do Nothing: Бездействовать
+  Goods: Карманы
+  Mirror: Зеркало
+  PSI: ПСИ
+  Pray: Молиться
+  Run Away: Сбежать
+  Shoot: Стрелять
+  Spy: Шпионить
+Equip Menu:
+  Arms: '     Руки'
+  Arms Window Title: Руки
+  Body: '      Тело'
+  Body Window Title: Тело
+  Defense: Защита
+  No Equip: (Ничего)
+  Offense: Нападение
+  Other: '     Другое'
+  Other Window Title: Другое
+  To: ''
+  Unequip: Ничего
+  Weapon: '  Оружие'
+  Weapon Window Title: Оружие
+Item Menu:
+  Drop: Выкинуть
+  Give: Дать
+  Help: Помощь!
+  Use: Использовать
+Menu Action Targets:
+  Where: Куда?
+  Where 2: Куда?
+  Which: Которых?
+  Who: Кого?
+  Whom: Кого?
+Other:
+  Lumine Hall Text: I'm ....  It's been a long road getting here...  Soon, I'll be...  Soon,
+    I'll be...  Soon, I'll be...  What will happen to us?  W...what's happening?  My
+    thoughts are being written out on the wall...  or are they?
+  Player Name Prompt: Register your name, please
+Out of Battle Menu:
+  Check: "[80 A3 9E A0 A4 A2 96 A4 C3]"
+  Equip: "[71 9E A5 9F 9A A8 9A C6]"
+  Goods: "[7C 91 A2 9E 91 9F C2]"
+  PSI: "[81 83 7A]"
+  Status: "[83 A0 A3 A4 A0 C6 9F 9A 96]"
+  Talk to: "[74 A0 93 A0 A2 9A A4 C3]"
+PSI Menu:
+  PP Cost: PP Cost
+  Row Back: the Back Row
+  Row Front: the Front Row
+  Row To: 'To '
+  To all enemies: To all enemies
+  To all of us: To all of us
+  To all of us 2: To all of us
+  To enemy: To enemy
+  To one enemy: To one enemy
+  To one enemy 2: to One Enemy
+  To one of us: To one of us
+  To one of us 2: to One Friend
+  To row of foes: To row of foes
+  himself: himself
+PSI Types:
+  Assist: Поддержка
+  Offense: Нападение
+  Other: Другое
+  Recover: Восстановление
+Starting Text:
+  Ask Name 1: "[81 A0 98 91 9D A5 9B A3 A4 91 5C 50 9F 91 99 A0 93 9A 50 96 94 A0 5E]"
+  Ask Name 2: "[7A 50 96 97 50 9F 91 99 A0 93 9A 5E]"
+  Ask Name 3: "[7F 91 99 A0 93 9A 50 A3 93 A0 96 94 A0 50 95 A2 A5 94 91 5E]"
+  Ask Name 4: "[7F 91 99 A0 93 9A 50 95 A2 A5 94 A0 94 A0 50 95 A2 A5 94 91 5E]"
+  Ask Name Food: "[7D C5 92 9A 9E 91 C6 50 95 A0 9E 91 AA 9F C6 C6 50 96 95 91 6F]"
+  Ask Name PSI: "[84 93 A0 C6 50 9D C5 92 9A 9E 91 C6 50 93 96 C0 C3 6F]"
+  Ask Name Pet: "[7F 91 99 A0 93 9A 50 A3 93 A0 96 94 A0 50 A1 9A A4 A0 9E A8 91 5E]"
+  Confirm All: "[73 A3 97 50 93 96 A2 9F A0 6F]"
+  Confirm All No: "[7F 96 91]"
+  Confirm All Yes: "[71 94 91]"
+  Confirm Delete: "[84 A0 A9 9F A0 50 A7 A0 A9 96 AA C3 50 A5 95 91 9D 9A A4 C3 6F]"
+  Confirm Delete No: "[7F 96 A4]"
+  Confirm Delete Yes: "[75 91]"
+  Confirm Food: "[7D C5 92 9A 9E 91 C6 50 96 95 91 6A]"
+  Confirm PSI: "[9C 9D 97 93 91 C6 50 93 96 C0 C3 6A]"
+  Continue: "[81 A2 A0 95 A0 9D 98 9A A4 C3]"
+  Copy: "[7C A0 A1 9A C6]"
+  Copy to where?: "[7C A5 95 91 6F]"
+  Delete: "[85 95 91 9D 9A A4 C3]"
+  Select Sound: Пожалуйста, выбери настройку звука.
+  Select Sound Mono: Моно
+  Select Sound Stereo: Стерео
+  Select Speed: Пожалуйста, выбери скорость текста.
+  Select Style: "[7C 91 9C 9A 96 50 A0 9C 9F 91 50 A4 96 92 96 50 50 50 50 50 9F A2 91 93 C6 A4 A3 C6 6F]"
+  Set Up: "[7F 91 A3 A4 A2 A0 9B 9C 9A]"
+  Start New Game: "[7F A0 93 91 C6 50 9A 94 A2 91]"
+  Text Speed: 'Скорость текста:'
+  Text Speed Fast: Быстро
+  Text Speed Medium: Средне
+  Text Speed Slow: Медленно
+Status Window:
+  Defense: 'Защита:'
+  Exp. for next level: Опыта до следующего уровня.
+  Experience Points: 'Очки опыта:'
+  Guts: 'Храбрость:'
+  Hit Points: 'Очки здоровья:'
+  IQ: 'Интеллект:'
+  Level: 'Уровень:'
+  Luck: 'Удача:'
+  Offense: 'Сила:'
+  PSI Prompt: '@Нажми кнопку -А- для информации о ПСИ.'
+  Psychic Points: 'Очки ПСИ:'
+  Speed: 'Скорость:'
+  Vitality: 'Жизнелюбие:'
+Window Titles:
+  Escargo Express Window Title: Вещи на хранении
+  Phone Window Title: 'Позвонить:'

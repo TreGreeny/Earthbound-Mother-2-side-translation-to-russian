@@ -101,22 +101,22 @@ l_0xc54ea7:
 l_0xc54ef7:
     newline
     " <[1C 05 94]>" next
-    "@Able to dish out some heavy-duty destruction in combat.  " next
-    "@Because of its explosive power," next
-    "@it may effect others besides the target creature." next
+    "@Способна нанести огромное количество урона в битве.  " next
+    "@Из-за взрывной силы" next
+    "@может задеть не только цель, но и других." next
     call(data_05.l_0xc56dab) end
 
 l_0xc54f6a:
     newline
     " <[1C 05 95]>" next
-    "@Deals 100 points of damage to any bug when used during combat." next
+    "@Наносит 100 очков урона любому жуку при применении в битве." next
     call(data_05.l_0xc56dab) end
 
 l_0xc54fa2:
     newline
     " <[1C 05 96]>" next
-    "@Quickly rusts metallic enemies when used during battle." next
-    "@The enemy will take about 200 points of damage." next
+    "@Металлические враги ржавеют от этой вещи, если её использовать в битве." next
+    "@Враг получит около 200 очков урона." next
     call(data_05.l_0xc56dab) end
 
 l_0xc54ff0:
